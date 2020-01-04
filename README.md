@@ -1,5 +1,7 @@
 # Gatsby Starter eCommerce
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/faizulho/eshop.svg)](https://greenkeeper.io/)
+
 Gatsby starter for creating an eCommerce site using [Moltin eCommerce Api ](https://moltin.com/).
 
 This starter adapts an [existing](https://github.com/moltin-examples/nextjs-demo-store) NextJS eCommerce starter for [GatsbyJS](https://www.gatsbyjs.org/).
