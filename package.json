@@ -9,10 +9,10 @@
   "dependencies": {
     "@moltin/gatsby-source-moltin": "^1.6.1",
     "@moltin/sdk": "^3.23.0",
-    "babel-jest": "^24.9.0",
+    "babel-jest": "^25.0.0",
     "babel-preset-gatsby": "^0.2.11",
     "eslint-plugin-jest": "^23.2.0",
-    "gatsby": "^2.15.1",
+    "gatsby": "^2.24.66",
     "gatsby-cli": "^2.7.41",
     "gatsby-image": "^2.2.15",
     "gatsby-plugin-google-analytics": "^2.1.12",
